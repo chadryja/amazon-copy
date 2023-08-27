@@ -1,0 +1,266 @@
+
+/* body{
+    min-height: 100%; min-width: 100%;
+} */
+
+.navbar{
+    height: 60px;
+
+}
+#logo{
+    width: 120px;
+    /* height: 50px; */
+}
+#search{
+    width: 25px;
+   
+    /* background-color: #ff9900; */
+    
+}
+.d-flex{
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 5px;
+    
+    
+
+}
+
+.me-2{
+    border: none;
+}
+#loc{
+    width: 5px;
+    color: aliceblue;
+    
+    
+}
+#set{
+/* width: 60px; */
+height: 40px;
+}
+
+#loca{
+    width: 55px;
+    margin-top: 5px;
+    }
+#deli{
+    font-size: 12px;
+    color: rgb(177, 171, 171);
+}
+#move{
+     margin-top: 10px;
+    margin-left: 10px; 
+    color: white;
+
+}
+#searchbar {
+    width: 38rem;
+    margin-left: 10px;
+    
+}.btn-light {
+    color: #ff9900;
+    background-color: #ff9900;
+    border-top-left-radius: 0px;
+    border-color: #ff9900;
+}
+#acont{
+    width: 80px;
+    /* justify-content: center;s */
+    height: 20px;
+    margin-right: 12px;
+}
+#returns{
+    width: 90px;
+    margin-left:20px ;
+}
+#cart{
+    width: 40px;
+}
+.nav{
+    background-color: #232f3e;
+    
+
+    height: auto;
+}
+#custom{
+    margin-top: 5px;
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    color: white;
+}
+.dropdown-menu{
+    background-color: #232f3e;
+    
+}
+.dropdown-item{
+    color: white;
+}
+.navbar-collapse{
+    background-color: black;
+    height: 60px;
+}
+.navbar-brand{
+    background-color: black;
+} 
+ .container-fluid{
+    background-color: black;
+    height: 60px;
+    /* align-items: center; */
+    
+} 
+.mg{
+    margin-top: 20px;
+}
+
+#fix{
+    /* margin-top: 15px; */
+    width: 250px;
+    height: 285px;
+}
+.card{
+    justify-content: center;
+    align-items: center;
+}
+/* .carousel-inner{
+    height: 400px;
+} */
+.card-text{
+    font-family:fantasy;
+    font-size: x-large;
+}
+
+footer{
+    margin-top: 15px;
+}
+/* 
+.footer-panel-1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+}
+
+.footer-panel-2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-panel-2 ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.85rem;
+    color: #dddddd;
+}
+
+.footer-panel-2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.footer-panel-2 ul {
+    margin-top: 20px;
+}
+
+.footer-panel-2 ul li {
+    margin: 5px;
+}
+
+.footer-panel-3{
+    background-color: #222f3d;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoBottom{
+    background-image: url('images/amazon_logo.png');
+    background-size: cover;
+    height: 65px;
+    width: 180px;
+}
+
+.footer-panel-4{
+    background-color: #222f3d;
+    height: 80px;
+}
+
+.pages{
+    font-size: 0.7rem;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.pages a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.85rem;
+    margin-right: 10px;
+}
+
+.copyright p{
+    padding-top: 5px;
+    font-size: 0.85rem;
+    text-align: center;
+    color: white
+} */
+#carouselExampleIndicators{
+    height: 250px;
+}
+.last{
+    background-color: #232f3e;
+    margin-top: 0px;
+}
+.ul p{
+    margin-top: 10px;
+color:white;
+font-size:large ;
+
+}
+.ul li{
+    list-style-type: none;
+}
+.ul li a{
+    text-decoration: none;
+    color: rgb(177, 171, 171);
+    list-style-type: none;
+    
+}
+.copy{
+    background-color: #232f3e;
+    
+}
+/* .pages{
+   margin-left: 20rem;
+    
+} */
+.pages a{
+   text-decoration: none;
+   color: aliceblue;
+   padding: 5px;
+   
+}
+.logoBottom{
+    background-image: url('images/amazon_logo.png');
+    background-size: cover;
+    height: 65px;
+    width: 180px;
+   /* margin-left: 28rem; */
+margin-top: 10px;
+}
+.copyright{
+   /* margin-left: 25rem; */
+color: white;
+}
