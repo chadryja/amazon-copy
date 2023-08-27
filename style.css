@@ -54,6 +54,7 @@ height: 40px;
      margin-top: 10px;
     margin-left: 10px; 
     color: white;
+    background-color:black;
 
 }
 #searchbar {
@@ -102,6 +103,8 @@ height: 40px;
 .navbar-collapse{
     background-color: black;
     height: 60px;
+    z-index: 1;
+
 }
 .navbar-brand{
     background-color: black;
